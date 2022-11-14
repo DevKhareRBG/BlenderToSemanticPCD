@@ -1,0 +1,41 @@
+{
+  "wall_materials": [
+    "Wall paper",
+    "Wall paper2",
+    "Wall 01",
+    "Stucco wall",
+    "Stucco Wall V8",
+    "Stucco Wall V7",
+    "Stucco Wall V3",
+    "Stucco Wall V9",
+    "Stucco Wall V11",
+    "Stucco Wall V4",
+    "Stucco Wall V6",
+    "Stucco Wall V2",
+    "Stucco Wall V1",
+    "Wood Wall",
+    "Procedrual Cement wall",
+    "White wall",
+    "brick wall",
+    "Purple wall painting",
+    "Old Wall procedural",
+    "red painted old wall",
+    "wood decoration wall",
+    "Wall Paint",
+    "Coarse Plaster"
+  ],
+  "floor_material": [
+    "Wooden floor",
+    "Laminate floor",
+    "Floor-Oak",
+    "Wooden floor.002",
+    "Wooden floor.003",
+    "Wooden floor.001",
+    "Stylize Wood Plank",
+    "wood board floor",
+    "Wood Floor Procedural",
+    "Procedural Flooring"
+  ],
+  "door_materials": [
+  ]
+}
